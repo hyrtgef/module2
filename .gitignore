@@ -1,0 +1,12 @@
+# Object files
+*.o
+*.a
+*.lib
+# Executable files
+program
+*.exe
+*.out
+#Temporary files
+*.swp
+*.bak
+*~
